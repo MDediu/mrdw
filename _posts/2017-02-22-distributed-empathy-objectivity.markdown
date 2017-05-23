@@ -1,6 +1,6 @@
 ---
-layout:post
-comments:true
+layout: post 
+comments: true
 ---
 
 [Thesaurus.com's top three synonyms for objective](http://www.thesaurus.com/browse/objective) are detached, disinterested, and dispassionate. It seems our net perspective on objectivity manifests notions of ruthless leaders and indifferent judges who are neglectful of the feelings and perspectives of pitiful individuals.
