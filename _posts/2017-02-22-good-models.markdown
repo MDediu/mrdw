@@ -3,8 +3,6 @@ layout: post
 comments: true
 ---
 
-#The Secret to Good Models of the World
-
 Questions are great communication. When you ask, you identify the exact hole in comprehension or gap in perspective and request it from the knowledgeable party while simultaneously testing your current perspective, or model, of the conceptual mechanics of the topic at hand. The answers to direct questions are left with little room for rhetoric, subjectivity, and other expressional cruft and since the response to a good question is usually significant information, we find that the favorability towards questions is proportional to the depth of knowledge and an evasion of questions is a red flag for vapidity. 
 
 We only ask the questions that we believe are relevant to us. This is why questions are so powerful; they represent a lack in one’s perspective and itch to complete it. So it follows that answers to questions represents desired (and therefore valuable) information. And the question, as the key to these valuable answers, is lauded by intellectually honest people.
