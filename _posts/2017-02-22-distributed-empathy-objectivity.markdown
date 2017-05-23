@@ -3,7 +3,7 @@ layout:post
 comments:true
 ---
 
-thesaurus.com's top three synonyms for objective are detached, disinterested, and dispassionate. It seems our net perspective on objectivity manifests notions of ruthless leaders and indifferent judges who are neglectful of the feelings and perspectives of pitiful individuals.
+[Thesaurus.com's top three synonyms for objective](http://www.thesaurus.com/browse/objective) are detached, disinterested, and dispassionate. It seems our net perspective on objectivity manifests notions of ruthless leaders and indifferent judges who are neglectful of the feelings and perspectives of pitiful individuals.
 
 There is a selective bias against objectivity because the good things built on objectivity get the credit for it and then disassociate. Like a nerd who helps all the popular kids with their homework. They accept praise never mentioning how much they owe to help. These are the conceptual upper crust of fairness, justice, discipline and composure and whenever someone lauds their essential role in humanity they neglect to give credit to the objectivity that people need to manifest these concepts into reality.
 
