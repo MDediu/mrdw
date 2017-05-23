@@ -1,5 +1,6 @@
 ---
 layout: post 
+title: Distributed Empathy = Objectivity
 comments: true
 ---
 
