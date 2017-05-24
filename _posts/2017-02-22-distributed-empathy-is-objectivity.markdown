@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Distributed Empathy = Objectivity
+title: Distributed Empathy is Objectivity
 comments: true
 ---
 
